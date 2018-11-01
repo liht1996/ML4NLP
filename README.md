@@ -1,4 +1,4 @@
-# Machine Learning for NLP
+## Machine Learning for NLP - Inclass Competition
 
 ## Libraries: 
 
